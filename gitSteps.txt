@@ -6,3 +6,9 @@ git config --global user.name 'Atul Nirbhavane'
 
 //to add your email to git 
 git config --global user.email 'anirbhavane106@gmail.com'
+
+//to create a new branch
+git branch newBranchName
+
+//to switch branch
+git checkout newBranchName

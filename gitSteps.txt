@@ -1,0 +1,8 @@
+//to initialize a particular folder so that git starts tracking initialize
+git init 
+
+//to add your name to git
+git config --global user.name 'Atul Nirbhavane'
+
+//to add your email to git 
+git config --global user.email 'anirbhavane106@gmail.com'
